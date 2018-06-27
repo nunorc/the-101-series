@@ -9,3 +9,5 @@ Currently available topics:
 * [Natural Language Processing](pln-101.md)
 * [Python](python-101.md)
 * [Statistics](statistics-101.md)
+
+PDF versions are available under the [PDFs/](PDFs) directory.
